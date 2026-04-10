@@ -1,1 +1,2 @@
-# Generative_ai 
+# GenAI Learning Journey
+
