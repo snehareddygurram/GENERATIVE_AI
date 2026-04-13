@@ -1,0 +1,17 @@
+# Day 3 - LLM Basics with Ollama
+
+## What is an LLM
+An LLM is a Large Language Model trained on large amounts of text to generate human-like responses.
+
+## What I used today
+- Ollama on Windows
+- Llama 3.1 8B model
+- Local API with Python requests
+
+## What I learned
+- A model can run locally on my laptop
+- Ollama exposes a local API
+- Python can call that API and print responses
+
+## Key point
+Local LLMs help me practice GenAI without paying for cloud API usage.
