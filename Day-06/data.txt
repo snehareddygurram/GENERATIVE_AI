@@ -1,0 +1,4 @@
+Python is a programming language.
+APIs allow communication between systems.
+RAG improves AI accuracy using external data.
+Vector databases store embeddings for similarity search.
