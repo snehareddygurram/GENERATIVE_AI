@@ -15,3 +15,19 @@ An LLM is a Large Language Model trained on large amounts of text to generate hu
 
 ## Key point
 Local LLMs help me practice GenAI without paying for cloud API usage.
+# Day 8 - LLM
+
+LLM = Large Language Model
+
+- Predicts next token
+- Trained on huge data
+- Uses tokens and neural networks
+
+Limitations:
+- Hallucination
+- Limited context
+
+Used in:
+- ChatGPT
+- Chatbots
+- AI assistants
