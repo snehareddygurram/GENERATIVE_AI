@@ -12,3 +12,5 @@ Used in:
 
 Interview:
 Data structures help organize and process data efficiently.
+
+Data structures like arrays, stacks, queues, and dictionaries are used to efficiently store and manage data. For example, dictionaries are heavily used in APIs and AI systems for handling JSON data.
